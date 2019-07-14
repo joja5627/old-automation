@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"os"
 
-	"old-automation/internal/sessions"
-	"old-automation/internal/facebook"
+	"github/joja5627/old-automation/internal/pkg/sessions"
+	"github/joja5627/old-automation/internal/pkg/facebook"
 	"golang.org/x/oauth2"
 	facebookOAuth2 "golang.org/x/oauth2/facebook"
 )
