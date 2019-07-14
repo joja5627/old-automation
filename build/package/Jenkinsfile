@@ -1,4 +1,4 @@
-def tag = 'UNKNOWN'
+kdef tag = 'UNKNOWN'
 def hash = 'UNKNOWN'
 def endpoint = 'UNKNOWN'
 

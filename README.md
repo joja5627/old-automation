@@ -1,6 +1,16 @@
-# Standard Go Project Layout
+# old automation
 
-## Go Directories
+## https://github.com/topics/hexagonal-architecture?l=go
+
+## add modules
+go mod init github path
+
+## without modules
+go get ./..
+go test ./..
+
+## with modules
+go build 
 
 ### `/cmd`
 
